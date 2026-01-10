@@ -1,0 +1,9 @@
+{
+	"name": "ADF-factory-azure-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "461e5bba-2832-4da4-81e2-5ae829eb01e7",
+		"tenantId": "858ca922-0e7e-456f-8954-1c1ebb599ace"
+	}
+}
